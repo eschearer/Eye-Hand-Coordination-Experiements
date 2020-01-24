@@ -1,5 +1,5 @@
-# Optotrak
-This file stores files used for Optotrak codes
+# Eye-Hand Coordination Experiments
+This file stores files used for Eye-Hand Coordination Experiments codes
 
 In any new folder you create, please create a README which explains the files in the folder(s).
 
